@@ -7,3 +7,6 @@
 - 🛠 For Back-End, like Golang. <img src="https://user-images.githubusercontent.com/47215007/111043054-b1806380-8455-11eb-877c-5a41d16b98d1.png" width="20" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=javadnasrollahi)
+
+
+<img align="right" alt="wakatime" src="https://javadnasrollahi.ir/images/wakatime.png" />
