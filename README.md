@@ -11,8 +11,8 @@
 [![Github](https://img.shields.io/github/followers/javadnasrollahi?label=Follow&style=social)](https://github.com/javadnasrollahi)
 
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javadnasrollahi&layout=compact&theme=flag-india&hide=Shell,HTML,Protocol Buffer,M4,Makefile&langs_count=15" />
+<a href="#">
+  <img height=180 src="https://raw.githubusercontent.com/javadnasrollahi/javadnasrollahi/main/Screenshot%202023-09-01%20225927.jpg" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=javadnasrollahi&show_icons=true&include_all_commits=true&theme=flag-india">
