@@ -12,7 +12,7 @@
 
 <br />
 <a href="#">
-  <img height=180 src="https://raw.githubusercontent.com/javadnasrollahi/javadnasrollahi/main/Screenshot%202023-09-01%20225927.jpg" />
+  <img height=180 src="https://raw.githubusercontent.com/javadnasrollahi/javadnasrollahi/main/photo_2024-04-13_23-35-20.jpg" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=javadnasrollahi&show_icons=true&include_all_commits=true&theme=flag-india">
